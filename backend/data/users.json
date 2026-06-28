@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "json_i1p5ksemqtirv0f",
+    "createdAt": "2026-06-25T13:10:02.944Z",
+    "name": "Admin Manager",
+    "email": "admin@boutique.com",
+    "password": "$2a$10$jfHUAf8M/FYu7L4F.upM0.nMDryX8sKxP/RbPrpirqdsKWKiKDZGq",
+    "role": "admin"
+  },
+  {
+    "_id": "json_zc12489mqtirv0j",
+    "createdAt": "2026-06-25T13:10:02.947Z",
+    "name": "Staff Associate",
+    "email": "staff@boutique.com",
+    "password": "$2a$10$jfHUAf8M/FYu7L4F.upM0.nMDryX8sKxP/RbPrpirqdsKWKiKDZGq",
+    "role": "staff"
+  }
+]
