@@ -116,7 +116,7 @@ Once both servers are running:
 
 ## 📸 Screenshots
 - **Dashboard Overview**:
-  ![image alt][https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page1.png]
+- [https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page1.png]
 - https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page2.png
 - https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page3.png
 - **Advanced Analytics**:
