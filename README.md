@@ -115,10 +115,12 @@ Once both servers are running:
 *(Note: If MongoDB is not running, the backend will automatically use the local JSON files in `backend/data/` as a fallback database.)*
 
 ## 📸 Screenshots
-
-*(Placeholders for future screenshots)*
-- **Dashboard Overview**: `![Overview](./frontend/public/hero_bracelets.png)`
-- **Advanced Analytics**: `![Analytics](./frontend/public/earrings_collection.png)`
+- **Dashboard Overview**:
+- https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page1.png
+- https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page2.png
+- https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page3.png
+- **Advanced Analytics**:
+  
 
 ## 📖 Usage Guide
 
