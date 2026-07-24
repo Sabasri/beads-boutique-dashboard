@@ -117,22 +117,22 @@ Once both servers are running:
 ## 📸 Screenshots
 ### Dashboard Overview:
 ![page1](https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page1.png)
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page2.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page3.png
-- **Advanced Analytics**:
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page%204.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page5.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page6.png  
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page7.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page8.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page9.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page10.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page11.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page12.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page13.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page14.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page15.png
-- https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page16.png
+![page2](https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page2.png)
+![page3](https://github.com/Sabasri/beads-boutique-dashboard/blob/02c524a5b174830e54368629cb7cd3475134f020/page3.png)
+### Advanced Analytics:
+![page4](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page%204.png)
+![page5](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page5.png)
+![page6](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page6.png)  
+![page7](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page7.png)
+![page8](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page8.png)
+![page9](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page9.png)
+![page10](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page10.png)
+![page11](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page11.png)
+![page12](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page12.png)
+![page13](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page13.png)
+![page14](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page14.png)
+![page15](https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page15.png)
+![page16]( https://github.com/Sabasri/beads-boutique-dashboard/blob/a1e0a239da13d9b16c976a2121499df237c67bd1/page16.png)
 
 
 ## 📖 Usage Guide
